@@ -1,9 +1,10 @@
 package main
 
 import (
-	"go-http2-streaming/http2"
 	"io/ioutil"
 	"log"
+
+	"github.com/herrberk/go-http2-streaming/http2"
 )
 
 func main() {
